@@ -320,12 +320,10 @@ $
 
 ## Authors ##
 
-👤 **OBED EHONEAH**
+👤 **YOSEPH EPHREM**
 
-- GitHub: [@ehoneahobed](https://github.com/ehoneahobed)
-- Twitter: [@ehoneahobed](https://twitter.com/ehoneahobed)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/ehoneahobed)
-- Blog: [Personal Blog](https://blog.ehoneahobed.com)
+- GitHub: [@Joephy527](https://github.com/Joephy527)
+- Email: [GMAIL](joephy527@gmail.com)
 
 👤 **JUSTICE MENSAH BLAY MEWUBE**
 

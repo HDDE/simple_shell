@@ -323,7 +323,6 @@ $
 👤 **YOSEPH EPHREM**
 
 - GitHub: [@Joephy527](https://github.com/Joephy527)
-- Email: [GMAIL](joephy527@gmail.com)
 
 👤 **JUSTICE MENSAH BLAY MEWUBE**
 

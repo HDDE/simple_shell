@@ -324,9 +324,7 @@ $
 
 - GitHub: [@Joephy527](https://github.com/Joephy527)
 
-👤 **JUSTICE MENSAH BLAY MEWUBE**
+👤 **HIBRESELAM DEREJE DEJENE**
 
-- GitHub: [@JUSTICEMENSAH-ALX](https://github.com/JUSTICEMENSAH-ALX)
-- LinkedIn: [LinkedIn](linkedin.com/in/mensah-blay-justice)
-- Twitter: [@JUSTICEMBLAY](https://twitter.com/justicemensahblaymewube)
+- GitHub: [@HDDE](https://github.com/HDDE)
 
